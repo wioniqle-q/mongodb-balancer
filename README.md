@@ -1,5 +1,8 @@
 # MongoBalancer
 
+## Edited Source
+https://gist.github.com/wioniqle-q/4d71ba6847ead70417db1568650d0c9c
+
 MongoBalancer is an advanced load balancing solution for MongoDB read operations in .NET applications. It dynamically adjusts read preferences between primary and secondary nodes based on real-time performance metrics, ensuring optimal read distribution and improved overall system performance.
 
 ## Features
